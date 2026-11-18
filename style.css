@@ -1,3 +1,47 @@
 *{
-    background: #000;
+    margin: 0;
+    padding: 0;
+}
+.top{
+    padding: 5px;
+    background-color: #040101;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+
+
+}
+.logo{
+    padding: 10px;
+    display: flex;
+    background-color: #4fe2af;
+    gap: 10px;
+
+}
+nav{
+    display: flex;
+    gap: 50px;
+    padding-left: 25rem;
+    padding-top: 10px;
+     font-size: 20px;
+}
+a{
+    text-align: center;
+    justify-content: center;
+    text-decoration: none;
+    color:brown;
+}
+.hero-text{
+    padding: 10px;
+    padding-top: -5px;
+    justify-content: center;
+}
+.footer{
+    padding: 10px;
+    background-color: #040101;
+    color: white;
+    text-align: center;
+
+}
+.foot-text{
+    text-align:left;
 }
