@@ -36,7 +36,7 @@ a{
     justify-content: center;
 }
 .footer{
-    padding: 10px;
+    
     background-color: #040101;
     color: white;
     text-align: center;
@@ -44,4 +44,5 @@ a{
 }
 .foot-text{
     text-align:left;
+    padding: 10px;
 }
